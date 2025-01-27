@@ -18,7 +18,7 @@ echo "<script>window.location.href ='index.php'</script>";
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title> Hospital management System </title>
+    <title> Health information management System </title>
 
     <link rel="shortcut icon" href="assets/images/fav.jpg">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -36,7 +36,7 @@ echo "<script>window.location.href ='index.php'</script>";
         <div id="nav-head" class="header-nav">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-2 col-md-3  col-sm-12" style="color:#000;font-weight:bold; font-size:42px; margin-top: 1% !important;">HMS
+                    <div class="col-lg-2 col-md-3  col-sm-12" style="color:#000;font-weight:bold; font-size:42px; margin-top: 1% !important;">HIMS
                        <a data-toggle="collapse" data-target="#menu" href="#menu" ><i class="fas d-block d-md-none small-menu fa-bars"></i></a>
                     </div>
                     <div id="menu" class="col-lg-8 col-md-9 d-none d-md-block nav-item">
@@ -77,7 +77,7 @@ echo "<script>window.location.href ='index.php'</script>";
                     <img class="d-block w-100" src="assets/images/slider/slider_2.jpg" alt="Second slide">
                     <div class="carousel-cover"></div>
                     <div class="carousel-caption vdg-cur d-none d-md-block">
-                        <h5 class="animated bounceInDown">Hospital Management System</h5>
+                        <h5 class="animated bounceInDown">Health Information Management System</h5>
             
                          
                     
@@ -85,10 +85,10 @@ echo "<script>window.location.href ='index.php'</script>";
                 </div>
                 
                 <div class="carousel-item active">
-                    <img class="d-block w-100" src="assets/images/slider/slider_3.jpg" alt="Third slide">
+                    <img class="d-block w-100" src="assets/images/slider/slider_4.jpg" alt="Third slide">
                       <div class="carousel-cover"></div>
                     <div class="carousel-caption vdg-cur d-none d-md-block">
-                        <h5 class="animated bounceInDown">Hospital Management System</h5>
+                        <h5 class="animated bounceInDown">Health Information Management System</h5>
             
                          
                     
@@ -415,7 +415,7 @@ while ($row=mysqli_fetch_array($ret)) {
     </footer>
     <div class="copy">
             <div class="container">
-         Hospital Management System
+         Health Information Management System
                 
      
             </div>
